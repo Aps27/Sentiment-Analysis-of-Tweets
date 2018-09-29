@@ -1,2 +1,2 @@
-# Sentinal Analysis of Tweets
+# Sentiment Analysis of Tweets
 Sentiment analysis is the process of 'computationally' determining whether a piece of string (as a part of a comment, writing or a casual conversation) is positive, negative or neutral. It is also known as opinion mining, deriving the opinion or attitude of the speaker. This program takes in the subject and number of tweets to be analysed from the user and gives us a graphical representation of the sentiments expressed. It also stores the results in an excel sheet for further analysis. This is developed using python for data science.
